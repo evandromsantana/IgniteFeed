@@ -38,5 +38,5 @@ $ yarn dev
 
 <p>Made with 💜 by Evandro de Macêdo Santana</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-evandro-m-santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandro-m-santana/)](https://www.linkedin.com/in/evandro-m-santana/)
+[Linkedin](https://www.linkedin.com/in/evandro-m-santana/)
 
