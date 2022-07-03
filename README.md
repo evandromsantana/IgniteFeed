@@ -6,11 +6,11 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
-## 💻 Project
+## 🧑‍💻 Project
 
-This project is a little feed to study the basics concepts to build applications using React.JS com a ferramenta Vite (it is faster and leaner in web development).
+This project is a small study of basic concepts to build applications using React.JS with the Vite tool. This tool is faster and leaner in web development.
 
-## 🧪 Technologies
+## ⚙ Technologies
 
 This project was developed using the following technologies:
 
@@ -18,7 +18,7 @@ This project was developed using the following technologies:
 - [Typescript](https://www.typescriptlang.org/)
 - [ViteJS](https://vitejs.dev/)
 
-## 🚀 Getting started
+## 💡 Getting started
 
 Clone the project and access the folder
 
@@ -26,10 +26,10 @@ Clone the project and access the folder
 $ git clone https://github.com/evandromsantana/IgniteFeed.git && cd IgniteFeed
 
 # to download the dependencies
-$ yarn install
+$ npm install
 
 # to start the an application
-$ yarn dev
+$ npm run dev
 
 # the application is running on http://localhost:3001/
 ```
@@ -38,5 +38,6 @@ $ yarn dev
 
 <p>Made with 💜 by Evandro de Macêdo Santana</p>
 
-[Linkedin](https://www.linkedin.com/in/evandro-m-santana/)
+<a href="https://www.linkedin.com/in/evandro-m-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 
